@@ -26,11 +26,6 @@ Install the module using **pip**:
 pip install infinityfree
 ```
 
-Or install directly from GitHub:  
-```sh
-pip install git+https://github.com/Rakhilukky/infinityfree.git
-```
-
 ---
 
 ## **📌 Usage Example**
