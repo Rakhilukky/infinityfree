@@ -1,7 +1,3 @@
-Here's a **highly optimized** and **SEO-friendly** `README.md` file for your **InfinityFree API Bypass** module. This version will help rank better on **GitHub** and **Google Search** while making it user-friendly and professional.  
-
----
-
 # **InfinityFree API Bypass** 🚀  
 **Bypass InfinityFree security restrictions & access the API without limitations!**  
 
