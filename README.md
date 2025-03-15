@@ -1,4 +1,3 @@
-
 # **InfinityFree API Bypass** 🚀  
 **Bypass InfinityFree security restrictions & access the API without limitations!**  
 
