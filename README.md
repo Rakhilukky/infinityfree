@@ -42,9 +42,6 @@ print(response.text)
 ```python
 custom_headers = {"User-Agent": "MyCustomAgent"}
 custom_cookies = {"session_id": "abcd1234"}
-
-response = Bypasse.post("https://example.com/api", headers=custom_headers, cookies=custom_cookies)
-print(response.text)
 ```
 
 ---
