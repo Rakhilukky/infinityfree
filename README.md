@@ -2,9 +2,9 @@
 **Bypass InfinityFree security restrictions & access the API without limitations!**  
 
 [![PyPI Version](https://img.shields.io/pypi/v/infinityfree.svg)](https://pypi.org/project/infinityfree/)  
-[![GitHub License](https://img.shields.io/github/license/yourusername/infinityfree)](https://github.com/yourusername/infinityfree/blob/main/LICENSE)  
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/infinityfree?style=social)](https://github.com/yourusername/infinityfree/stargazers)  
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/infinityfree?style=social)](https://github.com/yourusername/infinityfree/network/members)  
+[![GitHub License](https://img.shields.io/github/license/Rakhilukky/infinityfree)](https://github.com/Rakhilukky/infinityfree/blob/main/LICENSE)  
+[![GitHub Stars](https://img.shields.io/github/stars/Rakhilukky/infinityfree?style=social)](https://github.com/Rakhilukky/infinityfree/stargazers)  
+[![GitHub Forks](https://img.shields.io/github/forks/Rakhilukky/infinityfree?style=social)](https://github.com/Rakhilukky/infinityfree/network/members)  
 
 ---
 
@@ -72,7 +72,7 @@ print(response.text)
 ---
 
 ## **📖 Documentation**
-📌 **Full documentation is available on GitHub:** [**Read the Docs**](https://github.com/yourusername/infinityfree/wiki)  
+📌 **Full documentation is available on GitHub:** [**Read the Docs**](https://github.com/Rakhilukky/infinityfree/wiki)  
 
 ---
 
@@ -102,7 +102,7 @@ Plese Give my Credits too !
 ---
 
 ### **⭐ If You Find This Project Useful, Give It a Star! ⭐**
-👉 **[Click here to Star the Repo!](https://github.com/yourusername/infinityfree/stargazers)**  
+👉 **[Click here to Star the Repo!](https://github.com/Rakhilukky/infinityfree/stargazers)**  
 
 ---
 
