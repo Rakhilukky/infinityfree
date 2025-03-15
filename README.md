@@ -39,7 +39,7 @@ pip install git+https://github.com/Rakhilukky/infinityfree.git
 from infinityfree import Bypasse
 
 # Make a bypassed GET request
-response = Bypasse.get("https://example.com/protected-page")
+response = Bypasse.get("<link>")
 print(response.text)
 ```
 
