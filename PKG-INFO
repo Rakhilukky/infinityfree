@@ -1,0 +1,48 @@
+Metadata-Version: 2.2
+Name: infinityfree
+Version: 0.1.4
+Summary: A module to bypass InfinityFree API security checks for Scraping or API
+Home-page: https://github.com/Rakhilukky/infinityfree
+Author: Rakhilukky
+Author-email: lukkyrakhi@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: pycryptodome
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# **InfinityFree API Bypass** 🚀  
+
+**Bypass InfinityFree security restrictions & access the API without limitations!**  
+
+## **About**  
+InfinityFree API Bypass is a **Python module** that automates bypassing **security restrictions** on the **InfinityFree hosting platform**. It decrypts **AES-encrypted cookies**, solves **JS security challenges**, and allows smooth **GET/POST API requests**.  
+
+## **Installation**  
+Install via **pip**:  
+```sh
+pip install infinityfree
+```
+
+## **Usage**  
+```python
+from infinityfree import Bypasse
+
+response = Bypasse.get("https://example.com/protected-page")
+print(response.text)
+```
+
+## **More Details**  
+For full documentation and examples, visit:  
+🔗 **[GitHub Repository](https://github.com/Rakhilukky/infinityfree)**  
